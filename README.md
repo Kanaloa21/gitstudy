@@ -19,4 +19,6 @@
 
 # 2. GaemState(Scene)
 ## 다이어그램
-![Untitled Diagram](/path/Untitled Diagram.png)   
+```
+![asdf](/path/Untitled_Diagram.png)
+```
