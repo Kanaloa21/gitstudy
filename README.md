@@ -4,7 +4,7 @@
 # 1. 게임소개
 ## 1.1. 랜덤 타워 디펜스
 ```
-![Bloons Tower Defense1](/path/BTD1.png)  
+![Bloons Tower Defense1](/path/BTD1.jpg)
 흔히 "풍타디"라고 많이 알려진 "Bloons Tower Defense" 시리즈
 ```
 디펜스 장르는 과거부터 현재까지 넓은 확장성과 다양한 컨셉, 도전적인 레벨디자인으로 사랑받아온 장르입니다.   
@@ -23,7 +23,7 @@
 # 2. GaemState(Scene)
 ## 2.1. 다이어그램
 ```
-![asdf](/path/Untitled_Diagram.png)
+![diagram](/path/Diagram.png)
 총 5개의 GaemState로 구분됩니다.
 ```
 
